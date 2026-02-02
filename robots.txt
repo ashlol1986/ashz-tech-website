@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ashlol1986.github.io/ashz-tech-website/sitemap.xml
+Sitemap: https://ashz.tech/sitemap.xml
