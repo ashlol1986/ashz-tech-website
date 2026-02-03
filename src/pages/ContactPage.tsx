@@ -38,8 +38,8 @@ const ContactPage = () => {
               <div className="contact-details">
                 <h3>Email Us</h3>
                 <p>For business inquiries and project discussions</p>
-                <a href="mailto:info@ashz-tech.com" className="contact-link">
-                  info@ashz-tech.com
+                <a href="mailto:info@ashz.tech" className="contact-link">
+                  info@ashz.tech
                 </a>
               </div>
             </div>
@@ -107,7 +107,7 @@ const ContactPage = () => {
                   <span>Flexible Engagement</span>
                 </div>
               </div>
-              <a href="mailto:info@ashz-tech.com" className="btn-primary">
+              <a href="mailto:info@ashz.tech" className="btn-primary">
                 Send Us an Email
                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <path d="M5 12h14M12 5l7 7-7 7"/>
